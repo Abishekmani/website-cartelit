@@ -3,13 +3,14 @@
 
 /*/TODO:*
 * Add a logo(old logo is low res)
-* Make the register and login forms
+* Add all the contact forms and login forms to the backend
 ---
 
 *Version 2.5*
 
 * Added the dynamic date at the top
 * Added the copyright date
+* Added the login and signup pages
 ---
 
 
