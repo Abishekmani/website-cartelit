@@ -4,6 +4,7 @@
 /*/TODO:*
 * Add a logo(old logo is low res)
 * Add all the contact forms and login forms to the backend
+* Add all the job application to the backend
 ---
 
 *Version 2.5*
@@ -11,6 +12,8 @@
 * Added the dynamic date at the top
 * Added the copyright date
 * Added the login and signup pages
+* Added the job application page
+
 ---
 
 
